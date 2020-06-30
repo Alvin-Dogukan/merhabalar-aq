@@ -1,2 +1,2 @@
 # merhabalar-aq
-This is our first github repo.
+This is my first github repo.
